@@ -43,6 +43,6 @@ We need to add to `.agent/skills/frontend/primitives/`:
 - `modal-wrapper.tsx` (a boilerplate component that automatically handles `lenis.stop()` and `lenis.start()`)
 
 ## Why this works (The "No BS" reason)
-1. **Token Efficiency:** The LLM doesn't read 3000 words on Modals if the user just asks for a landing page (like the SF Soap example).
+1. **Token Efficiency:** The LLM doesn't read 3000 words on Modals if the user just asks for a simple landing page.
 2. **Deterministic Output:** By creating the `modal-wrapper.tsx` primitive, the LLM just imports it. It physically cannot make the mistake of forgetting to halt the scroll wheel.
 3. **Scalability:** Tomorrow, if you want to add WebGL/Three.js rules, you just add `03-webgl-canvas.md` to the index.
