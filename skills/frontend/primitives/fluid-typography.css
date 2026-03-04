@@ -1,0 +1,124 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  /* 
+   * FLUID TYPOGRAPHY SYSTEM
+   * Based on Utopia.fyi principles
+   * Min viewport: 320px, Max viewport: 1920px
+   * 
+   * RULE: Never use Tailwind text-xl, text-2xl etc.
+   * Always use text-fluid-* classes.
+   */
+
+  /* ── Display ─────────────────────────────────────── */
+  .text-fluid-display {
+    /* Massive display: 64px → 180px */
+    font-size: clamp(4rem, 1rem + 10vw, 11.25rem);
+    line-height: 0.85;
+    letter-spacing: -0.05em;
+  }
+
+  /* ── Heading 1 ───────────────────────────────────── */
+  .text-fluid-h1 {
+    /* Hero headlines: 48px → 128px */
+    font-size: clamp(3rem, 1.57rem + 7.14vw, 8rem);
+    line-height: 0.9;
+    letter-spacing: -0.04em;
+  }
+
+  /* ── Heading 2 ───────────────────────────────────── */
+  .text-fluid-h2 {
+    /* Section headers: 32px → 64px */
+    font-size: clamp(2rem, 1.43rem + 2.86vw, 4rem);
+    line-height: 1.0;
+    letter-spacing: -0.02em;
+  }
+
+  /* ── Heading 3 ───────────────────────────────────── */
+  .text-fluid-h3 {
+    /* Card headers: 24px → 40px */
+    font-size: clamp(1.5rem, 1.21rem + 1.43vw, 2.5rem);
+    line-height: 1.1;
+    letter-spacing: -0.01em;
+  }
+
+  /* ── Body Large ──────────────────────────────────── */
+  .text-fluid-body-lg {
+    /* Lead/intro text: 18px → 24px */
+    font-size: clamp(1.125rem, 1rem + 0.54vw, 1.5rem);
+    line-height: 1.5;
+  }
+
+  /* ── Body ────────────────────────────────────────── */
+  .text-fluid-body {
+    /* Standard body: 16px → 20px */
+    font-size: clamp(1rem, 0.93rem + 0.36vw, 1.25rem);
+    line-height: 1.6;
+  }
+
+  /* ── Small ───────────────────────────────────────── */
+  .text-fluid-small {
+    /* Secondary text: 14px → 16px */
+    font-size: clamp(0.875rem, 0.84rem + 0.18vw, 1rem);
+    line-height: 1.5;
+  }
+
+  /* ── Label ───────────────────────────────────────── */
+  .text-fluid-label {
+    /* Labels, tags, nav: 11px → 13px */
+    font-size: clamp(0.6875rem, 0.66rem + 0.13vw, 0.8125rem);
+    line-height: 1.2;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+
+  /* ── Caption ─────────────────────────────────────── */
+  .text-fluid-caption {
+    /* Footnotes, metadata: 12px → 14px */
+    font-size: clamp(0.75rem, 0.71rem + 0.18vw, 0.875rem);
+    line-height: 1.4;
+  }
+
+  /* ── Mono ────────────────────────────────────────── */
+  .text-fluid-mono {
+    /* Code, technical: 13px → 15px */
+    font-size: clamp(0.8125rem, 0.78rem + 0.18vw, 0.9375rem);
+    line-height: 1.5;
+    font-family: var(--font-mono, 'JetBrains Mono', monospace);
+  }
+
+  /* ── Text Utilities ──────────────────────────────── */
+  
+  /* Balanced line breaking for headlines (prevents orphans) */
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  /* Pretty line breaking for paragraphs */
+  .text-pretty {
+    text-wrap: pretty;
+  }
+
+  /* Tabular numbers for data/statistics */
+  .tabular-nums {
+    font-variant-numeric: tabular-nums;
+  }
+
+  /* Oldstyle numbers for editorial feel */
+  .oldstyle-nums {
+    font-variant-numeric: oldstyle-nums;
+  }
+
+  /* Ligatures for premium typography */
+  .ligatures {
+    font-feature-settings: 'liga' 1, 'calt' 1;
+  }
+
+  /* Optical kerning */
+  .kerning {
+    font-kerning: normal;
+    text-rendering: optimizeLegibility;
+  }
+}
