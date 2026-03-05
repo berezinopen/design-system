@@ -6,7 +6,7 @@ description: "Rules for 3-5 color palettes, HSL tokens, gradients, and dark mode
 
 # Color Palettes in Award-Winning Websites (2023–2025)
 
-> Data from design software analysis of 50 Awwwards-recognized color schemes, Awwwards gradient collections, dark mode best practices, and SOTY/SOTD case studies.
+> Data from design software analysis of 50 award-recognized color schemes, premium award platforms gradient collections, dark mode best practices, and top-tier award case studies.
 
 ---
 
@@ -48,7 +48,7 @@ Award-winning sites consistently use **3–5 core colors** plus neutrals:
 - Common values: `#f5f5f5`, `#fafaf9`, `#e8e8e8`, `#f0f0f0`
 
 ### Dark Backgrounds (immersive/media-rich sites)
-- **Very common** on Godly-featured sites, 3D experiences, creative portfolios
+- **Very common** on curated-gallery-featured sites, 3D experiences, creative portfolios
 - Never pure black `#000000` — causes eye strain and banding
 - Common values: `#0a0a0a`, `#0d0d0d`, `#111111`, `#121212`, `#1C1C1E`
 
@@ -91,7 +91,7 @@ Gradients are a defining feature of 2023–2025 award-winning design.
 |------|-------|---------|
 | **Linear** | Hero backgrounds, section dividers | Most common; blue→purple, pink→orange |
 | **Radial** | Focal points, behind CTAs, glow effects | Centered behind hero content |
-| **Mesh / distorted** | Organic fluid color fields, experimental bg | Increasingly common on Godly picks |
+| **Mesh / distorted** | Organic fluid color fields, experimental bg | Increasingly common on curated web gallery picks |
 | **Duotone** | Photography overlays for brand color unification | Popular in fashion, music, editorial |
 
 ### Common Gradient Palettes

@@ -6,7 +6,7 @@ description: "Rules for grid systems, whitespace, containers, and responsive bre
 
 # Spacing & Layout in Award-Winning Websites (2023–2025)
 
-> Data from CSS inspection of Leading Storytelling Agency and Top Tier 3D Studio, case studies of Premium Web3 Ecosystem Platform, Godly-featured sites, and GSAP tutorial ecosystem.
+> Data from CSS inspection of Leading Storytelling Agency and Top Tier 3D Studio, case studies of Premium Web3 Ecosystem Platform, curated-gallery-featured sites, and GSAP tutorial ecosystem.
 
 ---
 
@@ -21,7 +21,7 @@ Award-winning sites use **CSS Grid / Flexbox** with custom compositions — not 
 | **12-ish column mental model** | Very common | `grid-template-columns` with flexible tracks; visually resembles 10–12 column grids with 2–4 col sidebars + 6–8 col content blocks |
 | **Bento / masonry** | Common | Project cards and story blocks in "bento box" clusters — portfolios, case studies (Top Tier 3D Studio, Leading Storytelling Agency, Modern SaaS Product, Data Visualization Startup) |
 | **Full-bleed + centered column** | Very common | Background stretches full width; copy and CTAs sit in centered, max-width-constrained column |
-| **Asymmetric / rule-breaking** | Occasional | Found on some Godly picks; less common among Awwwards Annual winners which balance experimentation with legibility |
+| **Asymmetric / rule-breaking** | Occasional | Found on some curated web gallery picks; less common among industry annual winners which balance experimentation with legibility |
 
 ### Key Principle
 > Grid isn't the creative expression — it's the invisible structure. Creativity happens in the content, typography, and motion within the grid.
@@ -102,7 +102,7 @@ From CSS inspection of award winners:
 ### Pattern 3: Minimal Typographic Hero
 - Large, centered type with ample whitespace
 - Smaller motion accents (cursor effects, word fades, marquee lines)
-- **Examples**: Minimalist Fashion Brand, Senior Designer Portfolio (Godly-featured)
+- **Examples**: Minimalist Fashion Brand, Senior Designer Portfolio (curated-gallery-featured)
 
 ### Hero Hierarchy Strategy
 1. 2–3 line H1 with high contrast and strong tracking
@@ -176,14 +176,14 @@ Heavy 3D sites (Leading Storytelling Agency (Labs), Premium Web3 Ecosystem Platf
 
 | Site | Award | Layout Approach |
 |------|-------|----------------|
-| **Top Tier 3D Studio (v3)** | SOTY 2023 | Full-viewport WebGL canvas + content columns at ~1000px; asymmetric grid clusters for projects; large whitespace margins |
-| **Leading Storytelling Agency** | Users' Choice SOTY 2023 | Split hero (3D + text/CTA column); bento-like case sections; max-widths at 1024/1280px; 10–20px spacing increments |
+| **Top Tier 3D Studio (v3)** | Site of the Year 2023 | Full-viewport WebGL canvas + content columns at ~1000px; asymmetric grid clusters for projects; large whitespace margins |
+| **Leading Storytelling Agency** | Users' Choice Site of the Year 2023 | Split hero (3D + text/CTA column); bento-like case sections; max-widths at 1024/1280px; 10–20px spacing increments |
 | **Leading Storytelling Agency (Labs)** | Case study | Vertical narrative with pinned hero; jellyfish 3D scene + narrow text columns; strong contrast between immersive canvas and tight text |
-| **Premium Web3 Ecosystem Platform** | SOTY 2024 | Continuous WebGL world; text as layers on top of 3D; minimalistic labeling; "ice field" as whitespace |
-| **Luxury Fashion Heritage Site** | SOTD 2023 | Classic editorial grid; large imagery + bold headlines; extended whitespace; ~1120–1280px container |
-| **Minimalist Fashion Brand** | Godly-featured | Minimal portfolio; strong central column; large headings + small 3D accents; whitespace-dominant |
-| **Modern SaaS Product** | Godly-featured | Product marketing; oversized full-bleed app previews; generous vertical padding; simple card grids for features |
-| **Premium Hardware Brand** | Godly-featured | Large hero photography; simple grid-based product layout; strong typographic hierarchy; substantial whitespace |
+| **Premium Web3 Ecosystem Platform** | Site of the Year 2024 | Continuous WebGL world; text as layers on top of 3D; minimalistic labeling; "ice field" as whitespace |
+| **Luxury Fashion Heritage Site** | Site of the Day 2023 | Classic editorial grid; large imagery + bold headlines; extended whitespace; ~1120–1280px container |
+| **Minimalist Fashion Brand** | curated-gallery-featured | Minimal portfolio; strong central column; large headings + small 3D accents; whitespace-dominant |
+| **Modern SaaS Product** | curated-gallery-featured | Product marketing; oversized full-bleed app previews; generous vertical padding; simple card grids for features |
+| **Premium Hardware Brand** | curated-gallery-featured | Large hero photography; simple grid-based product layout; strong typographic hierarchy; substantial whitespace |
 
 ---
 

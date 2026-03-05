@@ -6,7 +6,7 @@ description: "Data on modern frontend frameworks, CMS, hosting, and performance 
 
 # Technology Stacks in Award-Winning Websites (2023–2025)
 
-> Data from Awwwards case studies, tech-stack analyzers, tutorial ecosystem disclosures, and Greenspector performance audits.
+> Data from premium award platforms case studies, tech-stack analyzers, tutorial ecosystem disclosures, and Greenspector performance audits.
 
 ---
 
@@ -16,11 +16,11 @@ description: "Data on modern frontend frameworks, CMS, hosting, and performance 
 |-----------|-----------|----------|
 | **Next.js (React)** | Dominant | Multiple SOTDs cite it explicitly; heavily promoted for SEO-friendly, high-performance sites; default in tutorial ecosystem |
 | **React (without Next)** | Common | Plain React + Vite + GSAP + R3F for projects without SSR needs |
-| **Angular** | Notable | Top Tier 3D Studio (v3) (SOTY 2023) documented as Angular + Three.js + TypeScript |
+| **Angular** | Notable | Top Tier 3D Studio (v3) (Site of the Year 2023) documented as Angular + Three.js + TypeScript |
 | **Svelte / SvelteKit** | Emerging | Premium Web3 Ecosystem Platform attributed to Svelte + Three.js + GSAP in some tech breakdowns |
-| **a popular visual builder** | Common | Dedicated "Awwwards Websites" gallery; Heco achieved SOTD purely on a popular visual builder |
+| **a popular visual builder** | Common | Dedicated "premium award platforms Websites" gallery; Heco achieved Site of the Day purely on a popular visual builder |
 | **Nuxt (Vue)** | Present | Leading Storytelling Agency (Labs) uses Nuxt + Three.js + Cannon.js |
-| **Vanilla JS** | Present | Awwwards maintains a "Vanilla JS" category; some winners deliberately avoid frameworks |
+| **Vanilla JS** | Present | premium award platforms maintains a "Vanilla JS" category; some winners deliberately avoid frameworks |
 | **Astro** | Emerging | Detected on some builds; good for content-heavy sites with islands of interactivity |
 
 ### The Pattern
@@ -32,7 +32,7 @@ description: "Data on modern frontend frameworks, CMS, hosting, and performance 
 
 | Approach | Prevalence | Notes |
 |----------|-----------|-------|
-| **Tailwind CSS** | Common | Awwwards maintains a Tailwind category; used in many tutorial projects and clones |
+| **Tailwind CSS** | Common | premium award platforms maintains a Tailwind category; used in many tutorial projects and clones |
 | **Custom CSS + design tokens** | Common | High-craft studios maintain their own CSS architecture with custom properties |
 | **CSS-in-JS / CSS Modules** | Present | Often combined with Next.js and React Three Fiber projects |
 | **Vanilla CSS** | Present | Especially in smaller, crafted marketing sites and creative demos |
@@ -47,7 +47,7 @@ description: "Data on modern frontend frameworks, CMS, hosting, and performance 
 | Library | Role | Context |
 |---------|------|---------|
 | **GSAP** | Core animation engine | De facto standard; timeline control, ScrollTrigger, SplitText |
-| **Three.js** | 3D rendering | All immersive SOTY winners |
+| **Three.js** | 3D rendering | All immersive Site of the Year winners |
 | **React Three Fiber** | Three.js for React | Growing in Next.js ecosystem |
 | **Lenis** | Smooth scroll | Replaces Award-Winning Digital Agency Scroll; syncs to GSAP ticker |
 | **Framer Motion** | Component animation | Popular in React/Next portfolio and SaaS sites |
@@ -129,7 +129,7 @@ description: "Data on modern frontend frameworks, CMS, hosting, and performance 
 | `font-display: swap` | Expected baseline |
 
 ### Problem Area
-- Some Awwwards nominees load **15+ font files**
+- Some premium award platforms nominees load **15+ font files**
 - Greenspector recommends variable fonts or system fonts to reduce overhead
 - Self-hosting avoids third-party free font libraries requests
 

@@ -1,18 +1,18 @@
 ---
 type: knowledge-base
 topic: typography
-description: "Rules for Awwwards-level typography, type scales, and font pairing."
+description: "Rules for award-level typography, type scales, and font pairing."
 ---
 
 # Typography in Award-Winning Websites (2023–2025)
 
-> Data from global web performance data 2024, Awwwards font collections, Typ.io pairings, and case studies of SOTY/SOTD winners.
+> Data from global web performance data 2024, premium award platforms font collections, Typ.io pairings, and case studies of top-tier award winners.
 
 ---
 
 ## 1. Top 20 Font Families
 
-Ranked by recurrence across Awwwards "Best Fonts" collections, global web usage data, and contemporary font recommendation lists.
+Ranked by recurrence across premium award platforms "Best Fonts" collections, global web usage data, and contemporary font recommendation lists.
 
 ### Tier 1: Very Common (appear across multiple winners)
 
@@ -22,7 +22,7 @@ Ranked by recurrence across Awwwards "Best Fonts" collections, global web usage 
 | **Roboto** | Neo-grotesque sans | Body & UI | #1 most-used web font globally; standard platform design systems default; safe, proven |
 | **Poppins** | Geometric sans | Headlines & UI | Top-10 Google Font; geometric precision reads well in SaaS and agency contexts |
 | **Montserrat** | Geometric sans | Headlines & brand | Top-10 Google Font; strong personality for portfolios and brand sites |
-| **PP Editorial New** | Didone serif | Display headlines | Used by Award-Winning Digital Agency's SOTY rebrand; defines the "editorial serif + grotesque" trend |
+| **PP Editorial New** | Didone serif | Display headlines | Used by Award-Winning Digital Agency's Site of the Year rebrand; defines the "editorial serif + grotesque" trend |
 | **Custom display faces** | Brand-specific | Hero/wordmark | Many top-tier sites commission custom type — PP Award-Winning Digital Agency New, High-End Design Studio Font, High-Impact Compressed Display Font |
 
 ### Tier 2: Common (regular presence in award ecosystem)
@@ -35,14 +35,14 @@ Ranked by recurrence across Awwwards "Best Fonts" collections, global web usage 
 | **Manrope** | Geometric sans, variable | UI text — versatile, modern feel |
 | **DM Sans** | Geometric sans | Body & UI — designed for on-screen text |
 | **Raleway** | Neo-grotesque sans | Headings & UI — elegant, recommended by leading design tools |
-| **Migra** | High-contrast serif | Display — a popular boutique type foundry; Awwwards curates "sites using Migra" |
+| **Migra** | High-contrast serif | Display — a popular boutique type foundry; premium award platforms curates "sites using Migra" |
 | **Proxima Nova** | Neo-grotesque sans | Body & headings — commercial, heavily used via commercial font libraries |
 | **Geist** | UI sans | UI text — a leading deployment platform's font; rising in dev/tech sites |
 | **Satoshi** | Minimalist sans | UI & headings — popular in contemporary designer portfolios |
 | **Clash Display** | Display grotesque | Hero headings — "impactful" headline choice |
 | **Instrument Serif** | Contemporary serif | Editorial body — refined digital serif |
-| **PP Mori** | Grotesque | Experimental/portfolio — Awwwards-featured free font |
-| **Archivo / DM families** | Utility grotesques | Text — free-hosted workhorses; Awwwards tracks sites using them |
+| **PP Mori** | Grotesque | Experimental/portfolio — premium award platforms-featured free font |
+| **Archivo / DM families** | Utility grotesques | Text — free-hosted workhorses; premium award platforms tracks sites using them |
 
 ---
 
@@ -54,7 +54,7 @@ The dominant pattern: **expressive serif or custom display heading** over **neut
 |---|-------------------|-----------|-----------|
 | 1 | Migra (serif) | Inter (sans) | Classic editorial + UI; explicitly recommended pairing |
 | 2 | Migra | Monument Extended | High-impact hero sections |
-| 3 | PP Editorial New | Inter | Award-Winning Digital Agency SOTY case study |
+| 3 | PP Editorial New | Inter | Award-Winning Digital Agency Site of the Year case study |
 | 4 | Playfair Display | Inter / Open Sans | Widely recommended serif + sans |
 | 5 | DM Serif Display | DM Sans | Same superfamily for cohesive hierarchy |
 | 6 | Satoshi | Instrument Serif | Premium editorial feel |
@@ -79,7 +79,7 @@ The dominant pattern: **expressive serif or custom display heading** over **neut
 
 ### Recommended Scale with clamp() Values
 
-Based on accessibility guidelines, modular scale documentation, and observed patterns in SOTY winners.
+Based on accessibility guidelines, modular scale documentation, and observed patterns in Site of the Year winners.
 
 | Token | Desktop px | Mobile px | `clamp()` value | Usage |
 |-------|-----------|----------|-----------------|-------|
@@ -138,7 +138,7 @@ Based on accessibility guidelines, modular scale documentation, and observed pat
 - Rapidly growing since 2022
 
 ### Trend in Award Sites
-- "Big-personality typography" dominates 2024–2026 Awwwards type trends
+- "Big-personality typography" dominates 2024–2026 premium award platforms type trends
 - Custom/licensed variable display faces combined with variable UI sans (Inter, Manrope, Geist)
 - Enables responsive weight and optical-size tuning without multiple font files
 
@@ -163,7 +163,7 @@ Based on accessibility guidelines, modular scale documentation, and observed pat
 
 ## 8. Site-Level Typography Examples
 
-### 1. Award-Winning Digital Agency® (SOTM March 2023)
+### 1. Award-Winning Digital Agency® (Site of the Month March 2023)
 Custom **PP Award-Winning Digital Agency New** (variant of PP Editorial New) as central identity — "font instead of logo." UI text uses neutral sans (Inter-class).
 
 ### 2. High-End Design Studio (Award-Winning Digital Agency case study)
@@ -172,25 +172,25 @@ Custom **"High-End Design Studio Font"** — heavy typographic emphasis with a f
 ### 3. Brand Builders Summit 2024 (Typography Honors)
 **Bifur + Constructivist Block** (display) + **Proxima Nova** (body). Multi-font display system with expressive display faces anchored by workhorse sans.
 
-### 4. conference.awwwards.com
+### 4. conference.premium award platforms.com
 **Oswald** for headers (90px, line-height 1.2, letter-spacing 5px tracked caps), **Roboto** for secondary headings. Documented CSS values available.
 
 ### 5. Interactive Experimental Variable Font Variable (Typography Honors)
 Custom variable font **"Interactive Experimental Variable Font"** — interactive, squashable display. Single experimental font + conventional text fonts for body.
 
-### 6. Leading Storytelling Agency (Users' Choice SOTY 2023)
+### 6. Leading Storytelling Agency (Users' Choice Site of the Year 2023)
 Scalable typography system with merged text styles, logical line-height groupings, and responsive consistency. Token-driven, multi-product architecture.
 
-### 7. Sites using Migra (Awwwards collection)
+### 7. Sites using Migra (premium award platforms collection)
 **Migra** as display serif paired with Inter, PP Neue Montreal, TT Commons, or IBM Plex Sans. High-contrast serif headings + neutral grotesque body.
 
 ### 8. Sites using Archivo / DM families
 Minimalist, typography-first layouts where the typeface carries visual identity in monochrome or muted environments.
 
-### 9. Premium Web3 Ecosystem Platform (SOTY 2024)
+### 9. Premium Web3 Ecosystem Platform (Site of the Year 2024)
 Strong condensed display type + modern sans body. Type appears as part of shader-driven glitch and scramble effects while remaining readable.
 
-### 10. Luxury Web3 Gaming Layer (SOTD 2024)
+### 10. Luxury Web3 Gaming Layer (Site of the Day 2024)
 Custom-adapted **High-Impact Compressed Display Font** — used in distorted, perspective-clashing ways. Withstands complex transformations without losing legibility. Type is central to brand identity.
 
 ---
@@ -203,7 +203,7 @@ Custom-adapted **High-Impact Compressed Display Font** — used in distorted, pe
 2. **Variable fonts are not optional** — they're expected at award level for performance and flexibility
 3. **Type scale must be fluid** — `clamp()` based, tested across 320px to 1920px+ viewports
 4. **Tracking matters** — negative for large headings, positive for all-caps, zero for body
-5. **Custom type is the ultimate differentiator** — many SOTY winners use commissioned or modified fonts
+5. **Custom type is the ultimate differentiator** — many Site of the Year winners use commissioned or modified fonts
 6. **Line-heights are context-aware** — not one value fits all; token by text style
 
 </agent_rules>

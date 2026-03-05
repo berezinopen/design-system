@@ -23,7 +23,7 @@ Award-winning sites make type the primary structural and emotional element. Cust
 ---
 
 ### 2. Maximum 3 Active Colors
-Richness comes from gradients, opacity shifts, and lighting — not from more color swatches. Most SOTY winners use 1 background + 1 text + 1 accent.
+Richness comes from gradients, opacity shifts, and lighting — not from more color swatches. Most Site of the Year winners use 1 background + 1 text + 1 accent.
 
 **Rule**: Define 3 core HSL tokens. Generate all variations (hover, muted, disabled) programmatically from those. If you need a 4th color, justify it.
 
@@ -122,7 +122,7 @@ There is no serious alternative for award-level motion and 3D on the web. GSAP h
 ---
 
 ### 13. Accessibility is the Gap (and the Opportunity)
-Most award-winners score 6.6–7.2/10 on accessibility. This is the Achilles heel of the ecosystem. A site that achieves Awwwards-level aesthetics AND strong accessibility would be exceptional.
+Most award-winners score 6.6–7.2/10 on accessibility. This is the Achilles heel of the ecosystem. A site that achieves award-level aesthetics AND strong accessibility would be exceptional.
 
 **Rule**: Always implement `prefers-reduced-motion`. Always ensure 4.5:1 text contrast. Always provide keyboard navigation. Disable custom cursor on touch. These are non-negotiable baseline, not "nice to have."
 
@@ -131,7 +131,7 @@ Most award-winners score 6.6–7.2/10 on accessibility. This is the Achilles hee
 ---
 
 ### 14. Custom Type is the Ultimate Differentiator
-Many SOTY winners use commissioned or modified fonts — PP Award-Winning Digital Agency New, High-Impact Compressed Display Font (Luxury Web3 Gaming Layer), High-End Design Studio Font. When the font IS the brand, the entire design gains coherence that no amount of layout tricks can match.
+Many Site of the Year winners use commissioned or modified fonts — PP Award-Winning Digital Agency New, High-Impact Compressed Display Font (Luxury Web3 Gaming Layer), High-End Design Studio Font. When the font IS the brand, the entire design gains coherence that no amount of layout tricks can match.
 
 **Rule**: For hero/brand typography, explore distinctive display faces (Migra, PP Editorial New, Clash Display, custom commissions). For body, stay with tried Inter/Manrope/DM Sans. Pair expressiveness with neutrality.
 
@@ -140,7 +140,7 @@ Many SOTY winners use commissioned or modified fonts — PP Award-Winning Digita
 ---
 
 ### 15. Award-Winning ≠ 3D
-Pet Care Services Platform (SOTY Users' Choice 2024) proves that charismatic illustration, engaging copy, and practical UX can beat full 3D immersion. Luxury Fashion Heritage Site proves that editorial photography + whitespace can do it. Vibrant Beverage E-commerce Maté proves that color and Lottie can do it.
+Pet Care Services Platform (Site of the Year Users' Choice 2024) proves that charismatic illustration, engaging copy, and practical UX can beat full 3D immersion. Luxury Fashion Heritage Site proves that editorial photography + whitespace can do it. Vibrant Beverage E-commerce Maté proves that color and Lottie can do it.
 
 **Rule**: Match technique to story. 3D for immersive/tech brands. Editorial grids for heritage/fashion. Playful illustration for approachable services. The technique serves the narrative, never the reverse.
 

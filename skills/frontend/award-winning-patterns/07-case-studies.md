@@ -1,12 +1,12 @@
 ---
 type: knowledge-base
 topic: case-studies
-description: "Detailed breakdowns of 12 SOTY/SOTD winning websites."
+description: "Detailed breakdowns of 12 top-tier award winning websites."
 ---
 
 # Case Studies: Award-Winning Websites (2023–2025)
 
-> Detailed breakdowns of 12 SOTY/SOTD winners, consolidated from all 3 research reports with duplicates merged.
+> Detailed breakdowns of 12 top-tier award winners, consolidated from all 3 research reports with duplicates merged.
 
 ---
 
@@ -83,7 +83,7 @@ description: "Detailed breakdowns of 12 SOTY/SOTD winning websites."
 |---|---|
 | **URL** | [redacted-url] |
 | **Industry** | Immersive web & storytelling design agency |
-| **Award** | SOTD, Users' Choice SOTY 2023 |
+| **Award** | Site of the Day, Users' Choice Site of the Year 2023 |
 | **Aesthetic** | Immersive, cinematic, 3D-forward with calm palettes |
 
 **Typography**: Elegant sans-serif system with strong weight contrast. Token-driven, multi-product architecture. Large type anchors screens while 3D moves behind.
@@ -127,9 +127,9 @@ description: "Detailed breakdowns of 12 SOTY/SOTD winning websites."
 
 | | |
 |---|---|
-| **URL** | https://www.awwwards.com/sites/dont-board-me |
+| **URL** | https://www.premium award platforms.com/sites/dont-board-me |
 | **Industry** | Pet care services |
-| **Award** | Users' Choice SOTY 2024 |
+| **Award** | Users' Choice Site of the Year 2024 |
 | **Aesthetic** | Friendly, illustration-driven with "adorable" line art |
 
 **Typography**: Rounded, approachable sans-serifs with clear hierarchy. Extensive mid-size headings and conversational copy.
@@ -146,13 +146,13 @@ description: "Detailed breakdowns of 12 SOTY/SOTD winning websites."
 
 ---
 
-## 7. Luxury Web3 Gaming Layer — SOTD + Business & Services Honor 2024
+## 7. Luxury Web3 Gaming Layer — Site of the Day + Business & Services Honor 2024
 
 | | |
 |---|---|
 | **URL** | [redacted-url] Web3 Gaming Layer.com |
 | **Industry** | Web3 / gaming "Metagame Layer" |
-| **Award** | SOTD, DEV Award, Business & Services Honor 2024 |
+| **Award** | Site of the Day, Technical Excellence Award, Business & Services Honor 2024 |
 | **Aesthetic** | Ultra-polished "luxury" Web3 with glitch-infused type |
 
 **Typography**: Custom High-Impact Compressed Display Font display type — used in distorted, perspective-clashing ways while remaining legible. Calmer sans for body. Type is THE brand identity.
@@ -169,13 +169,13 @@ description: "Detailed breakdowns of 12 SOTY/SOTD winning websites."
 
 ---
 
-## 8. AI Audio Experiential Microsite — SOTD 2024-2025
+## 8. AI Audio Experiential Microsite — Site of the Day 2024-2025
 
 | | |
 |---|---|
 | **URL** | Leading Storytelling Agency microsite |
 | **Industry** | AI music brand activation |
-| **Award** | SOTD, nominated SOTY |
+| **Award** | Site of the Day, nominated Site of the Year |
 | **Aesthetic** | Dark, club-like underground with reactive 3D |
 
 **Typography**: Tight uppercase sans + monospace techy accents integrated into 3D spaces and UI overlays.
@@ -190,13 +190,13 @@ description: "Detailed breakdowns of 12 SOTY/SOTD winning websites."
 
 ---
 
-## 9. Luxury Fashion Heritage Site — SOTD 2023
+## 9. Luxury Fashion Heritage Site — Site of the Day 2023
 
 | | |
 |---|---|
 | **URL** | [redacted-url] Fashion Brand.com |
 | **Industry** | Fashion / brand heritage |
-| **Award** | SOTD 2023 |
+| **Award** | Site of the Day 2023 |
 | **Aesthetic** | Editorial, image-driven brand storytelling |
 
 **Typography**: Fashion-style serif/refined sans combinations. Large display headlines, comfortable body with magazine-like spacing.
@@ -213,13 +213,13 @@ description: "Detailed breakdowns of 12 SOTY/SOTD winning websites."
 
 ---
 
-## 10. Global Beverage Brand — Hall of Zero Limits (SOTD 2023)
+## 10. Global Beverage Brand — Hall of Zero Limits (Site of the Day 2023)
 
 | | |
 |---|---|
 | **URL** | Campaign microsite (Global Beverage Brand x Major Entertainment Franchise) |
 | **Industry** | Beverage brand campaign / entertainment |
-| **Award** | SOTD 2023 |
+| **Award** | Site of the Day 2023 |
 | **Aesthetic** | Cinematic, Major Entertainment Franchise-inspired immersive backstage |
 
 **Typography**: Bold cinematic sans-serifs (movie key art style). Strong hierarchy across hero, sections, interactive cues.
@@ -253,13 +253,13 @@ description: "Detailed breakdowns of 12 SOTY/SOTD winning websites."
 
 ---
 
-## 12. WebGPU Experiential Microsite — SOTD
+## 12. WebGPU Experiential Microsite — Site of the Day
 
 | | |
 |---|---|
 | **URL** | GSAP showcase + Leading Storytelling Agency LinkedIn |
 | **Industry** | Romantic 3D web experience |
-| **Award** | GSAP showcase SOTD |
+| **Award** | GSAP showcase Site of the Day |
 | **Aesthetic** | Niche experiential microsite |
 
 **Animation**: First WebGPU project from Leading Storytelling Agency. 3D island scenes rendered in Three.js. Scroll-driven camera moves, layered parallax, custom shaders.

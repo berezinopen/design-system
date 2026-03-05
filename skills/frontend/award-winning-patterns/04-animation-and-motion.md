@@ -6,7 +6,7 @@ description: "Rules for GSAP, ScrollTrigger, easing, micro-interactions, and 3D 
 
 # Animation & Motion in Award-Winning Websites (2023–2025)
 
-> Data from GSAP showcases, Awwwards case studies (Top Tier 3D Studio, Premium Web3 Ecosystem Platform, Leading Storytelling Agency), Three.js forum threads, and the tutorial ecosystem teaching "Awwwards-style" motion.
+> Data from GSAP showcases, premium award platforms case studies (Top Tier 3D Studio, Premium Web3 Ecosystem Platform, Leading Storytelling Agency), Three.js forum threads, and the tutorial ecosystem teaching "premium-award-style" motion.
 
 ---
 
@@ -16,8 +16,8 @@ description: "Rules for GSAP, ScrollTrigger, easing, micro-interactions, and 3D 
 
 | Tool | Role | Prevalence |
 |------|------|-----------|
-| **GSAP + ScrollTrigger** | Timeline animation, scroll-linked motion | The standard — appears in virtually every SOTY/SOTD case study and tutorial |
-| **Three.js** | 3D rendering, WebGL scenes | Used by all recent immersive SOTY winners (Top Tier 3D Studio, Premium Web3 Ecosystem Platform, Leading Storytelling Agency) |
+| **GSAP + ScrollTrigger** | Timeline animation, scroll-linked motion | The standard — appears in virtually every top-tier award case study and tutorial |
+| **Three.js** | 3D rendering, WebGL scenes | Used by all recent immersive Site of the Year winners (Top Tier 3D Studio, Premium Web3 Ecosystem Platform, Leading Storytelling Agency) |
 | **Lenis** | Smooth scroll controller | Quasi-required for "premium feel"; syncs to GSAP ticker |
 | **React Three Fiber** | Three.js for React/Next.js ecosystems | Growing in React-based award builds |
 
@@ -32,7 +32,7 @@ description: "Rules for GSAP, ScrollTrigger, easing, micro-interactions, and 3D 
 | **Barba / Swup** | Page transition libraries for SPA-like route changes |
 
 ### The Pattern
-> **GSAP + ScrollTrigger + Lenis** is the foundational motion stack for any project aspiring to Awwwards recognition. Add **Three.js** when 3D is needed.
+> **GSAP + ScrollTrigger + Lenis** is the foundational motion stack for any project aspiring to premium award platforms recognition. Add **Three.js** when 3D is needed.
 
 ---
 
@@ -175,7 +175,7 @@ Given heavy WebGL usage, performance-aware loading is critical:
 ### Kinetic Typography
 - Headlines scale, shear, or slide in sync with scroll
 - Text pinned while imagery scrolls, or vice versa
-- Central to perceived quality of many SOTY winners
+- Central to perceived quality of many Site of the Year winners
 
 ### Typewriter & Counter Effects
 - Less common but present in product/AI dashboard contexts
@@ -237,12 +237,12 @@ Given heavy WebGL usage, performance-aware loading is critical:
 
 | Site | Award | Signature Techniques |
 |------|-------|---------------------|
-| **Top Tier 3D Studio (v3)** | SOTY 2023 | Full Three.js/WebGL; cursor-triggered displacement; camera moves on scroll |
+| **Top Tier 3D Studio (v3)** | Site of the Year 2023 | Full Three.js/WebGL; cursor-triggered displacement; camera moves on scroll |
 | **Leading Storytelling Agency (Labs)** | Case study | Physics-based sphere shattering to glass fragments (Cannon.js); jellyfish configurator |
-| **WebGPU Experiential Microsite** | SOTD | First WebGPU project; 3D island scenes; scroll-driven camera; custom shaders |
-| **AI Audio Experiential Microsite** | SOTD | Audio-reactive scenes; cloth simulation (Wiggle Bones); AI music sync |
-| **Premium Web3 Ecosystem Platform** | SOTY 2024 | Procedural crystal growth; shader-driven UI text; VDB particle volumes; slow-motion toggles |
-| **Creative Production Studio** | SOTD (Awwwards) | Horizontal scroll + Lenis; pinned track; scrubbed parallax |
+| **WebGPU Experiential Microsite** | Site of the Day | First WebGPU project; 3D island scenes; scroll-driven camera; custom shaders |
+| **AI Audio Experiential Microsite** | Site of the Day | Audio-reactive scenes; cloth simulation (Wiggle Bones); AI music sync |
+| **Premium Web3 Ecosystem Platform** | Site of the Year 2024 | Procedural crystal growth; shader-driven UI text; VDB particle volumes; slow-motion toggles |
+| **Creative Production Studio** | Site of the Day (premium award platforms) | Horizontal scroll + Lenis; pinned track; scrubbed parallax |
 
 ---
 

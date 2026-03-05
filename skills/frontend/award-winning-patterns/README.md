@@ -1,12 +1,12 @@
 ---
 type: knowledge-base
 topic: index
-description: "Central routing document for the Awwwards-Godly knowledge base."
+description: "Central routing document for the Award-Winning Patterns knowledge base."
 ---
 
-# Awwwards & Godly: Empirical Design Research (2023–2025)
+# Award-Winning & Curated: Empirical Design Research (2023–2025)
 
-> The empirical backbone of the Berezin Design System — data-driven principles extracted from Awwwards SOTY/SOTD winners and Godly.website top picks.
+> The empirical backbone of the Berezin Design System — data-driven principles extracted from top-tier Site of the Year / Site of the Day winners and exclusive curated web galleries top picks.
 
 ## What is this?
 
@@ -31,9 +31,9 @@ This folder contains consolidated research from 3 deep-dive analyses of award-wi
 
 ## Sources
 
-- **Perplexity 1**: Typography & Color deep research (Awwwards font collections, global web performance data 2024, design software palette analyses)
+- **Perplexity 1**: Typography & Color deep research (premium award platforms font collections, global web performance data 2024, design software palette analyses)
 - **Perplexity 2**: Layout & Motion deep research (case studies of Top Tier 3D Studio, Premium Web3 Ecosystem Platform, Leading Storytelling Agency; GSAP showcases; tutorial ecosystem)
-- **Perplexity 3**: UX & Tech Stacks deep research (Awwwards DEV scores, accessibility studies, framework censuses)
+- **Perplexity 3**: UX & Tech Stacks deep research (industry standard developer scores, accessibility studies, framework censuses)
 
 Raw source files are preserved in `perplexity1/`, `perplexity2/`, `perplexity3/`.
 
@@ -42,5 +42,5 @@ Raw source files are preserved in `perplexity1/`, `perplexity2/`, `perplexity3/`
 This research **validates and extends** the rules in `/.agent/skills/frontend/SKILL.md`. When designing:
 
 1. **Check empirical data first** — before choosing fonts, colors, or animation approaches, reference the relevant document here
-2. **Use case studies as benchmarks** — compare your design decisions against what SOTY winners actually did
+2. **Use case studies as benchmarks** — compare your design decisions against what Site of the Year winners actually did
 3. **Follow distilled principles** — `08-design-principles.md` contains the actionable rules derived from all research

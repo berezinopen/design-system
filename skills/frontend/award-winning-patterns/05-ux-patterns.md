@@ -6,7 +6,7 @@ description: "Rules for scroll storytelling, navigation, CTAs, and accessibility
 
 # UX Patterns in Award-Winning Websites (2023–2025)
 
-> Data from Awwwards case studies, a major creative software company's award roundups, eye-tracking studies, Greenspector accessibility audits, and Godly.website curation patterns.
+> Data from premium award platforms case studies, a major creative software company's award roundups, eye-tracking studies, Greenspector accessibility audits, and exclusive curated web galleries curation patterns.
 
 ---
 
@@ -30,7 +30,7 @@ description: "Rules for scroll storytelling, navigation, CTAs, and accessibility
 - Story-driven single-page experiences
 - **Examples**: Premium Web3 Ecosystem Platform's three sections, Luxury Web3 Gaming Layer's "sectors"
 
-### Experimental Patterns (Godly specialty)
+### Experimental Patterns (curated web gallery specialty)
 - Draggable timelines, spatial menus, cursor-driven exploration
 - Grounded in the same minimal-chrome principle
 - Innovation in how navigation feels, not how much it shows
@@ -48,7 +48,7 @@ Footers function as **structured secondary navigation + trust anchors**.
 - Compact sitemap (top-level pages, key case studies)
 - Contact block: email, social icons, short inquiry CTA ("Start a project")
 - Legal links: privacy, terms, cookies, language switcher
-- Brand reinforcement: logotype, award badges (Awwwards, FWA, CSSDA)
+- Brand reinforcement: logotype, award badges (premium award platforms, FWA, CSSDA)
 
 ### Footer as Scene
 On motion-heavy sites, footers are treated as a **scroll-pinned scene**:
@@ -105,7 +105,7 @@ CTAs in award-winning sites are **micro-components** that convey brand personali
 
 ### Parallax & Depth Cues
 - Layered imagery at varying speeds
-- Staple in Godly-featured experiences and 3D portfolios
+- Staple in curated-gallery-featured experiences and 3D portfolios
 
 ### Video Backgrounds & Narrative Clips
 - Short, muted, looping clips communicating product behavior
@@ -139,7 +139,7 @@ CTAs in award-winning sites are **micro-components** that convey brand personali
 
 ## 6. Scroll Storytelling
 
-The **defining pattern** of contemporary Awwwards and Godly experiences.
+The **defining pattern** of contemporary premium award platforms and curated web gallery experiences.
 
 ### Scroll-Triggered Scene Changes
 - Scroll position drives transitions between scenes/chapters
@@ -151,7 +151,7 @@ The **defining pattern** of contemporary Awwwards and Godly experiences.
 
 ### Pinned Narrative Sections
 - Text fixed while imagery/3D changes behind it
-- Prevalent in SOTM winners and high-scoring Godly picks
+- Prevalent in Site of the Month winners and high-scoring curated web gallery picks
 
 ### Horizontal Scroll in Vertical Flow
 - Horizontal product carousels responding to vertical scroll
@@ -207,7 +207,7 @@ The **defining pattern** of contemporary Awwwards and Godly experiences.
 | Poor color contrast, excessive motion without pause controls, missing keyboard focus indicators, weak screen reader support | LinkedIn accessibility advocates |
 | Users found award winners visually compelling but harder to navigate | 2025 "Balancing Beauty and Usability" eye-tracking study |
 | Sites with 400+ HTTP requests, 12MB+ transferred, dozens of contrast issues | Greenspector analysis of Mobile Excellence nominees |
-| Accessibility scores typically 6.6–7.2/10 on DEV Awards | Awwwards DEV Award panel breakdowns |
+| Accessibility scores typically 6.6–7.2/10 on DEV Awards | industry standard developer award panel breakdowns |
 
 ### What This Means for the Design System
 - Accessibility is **not** a strength of the award ecosystem — it's an opportunity

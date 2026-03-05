@@ -9,11 +9,11 @@ This skill codifies the workflow for building "Top Tier" websites of **any aesth
 The core principle is not a specific visual style, but a **specific engineering process**.
 
 > [!NOTE]
-> **EMPIRICAL RESEARCH BASE (AWWWARDS & GODLY)**
-> All design principles in this system are backed by data from 12+ Awwwards SOTY/SOTD winners (2023–2025) and Godly.website top picks.
-> The full research is located in `./awwwards-godly/`.
+> **EMPIRICAL RESEARCH BASE (PREMIUM AWARD PLATFORMS & CURATED GALLERIES)**
+> All design principles in this system are backed by data from 12+ top-tier Site of the Year / Site of the Day winners (2023–2025) and exclusive curated web galleries.
+> The full research is located in `./award-winning-patterns/`.
 > 
-> **CRITICAL AGENT INSTRUCTION**: Before generating any code or making design decisions (typography, colors, layout, motion), you MUST read `./awwwards-godly/README.md`. It contains an `<agent_routing>` table that will tell you exactly which specialized document to read next. Do not guess; use the empirical data.
+> **CRITICAL AGENT INSTRUCTION**: Before generating any code or making design decisions (typography, colors, layout, motion), you MUST read `./award-winning-patterns/README.md`. It contains an `<agent_routing>` table that will tell you exactly which specialized document to read next. Do not guess; use the empirical data.
 
 > [!IMPORTANT]
 > **THE UNIVERSAL MANIFESTO (SYSTEM PROMPT)**
