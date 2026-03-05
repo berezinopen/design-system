@@ -1,12 +1,19 @@
 ---
 name: Creative Frontend
-description: "Berezin Design System V1.0 — A knowledge module for building Awwwards-tier, high-end web experiences."
+description: "Berezin Design System V3.0 — A knowledge module for building Awwwards-tier, high-end web experiences."
 ---
 
-# Berezin Design System V1.0
+# Berezin Design System V3.0
 
 This skill codifies the workflow for building "Top Tier" websites of **any aesthetic** (Minimalist, Brutalist, Editorial, Corporate).
 The core principle is not a specific visual style, but a **specific engineering process**.
+
+> [!NOTE]
+> **EMPIRICAL RESEARCH BASE (AWWWARDS & GODLY)**
+> All design principles in this system are backed by data from 12+ Awwwards SOTY/SOTD winners (2023–2025) and Godly.website top picks.
+> The full research is located in `./awwwards-godly/`.
+> 
+> **CRITICAL AGENT INSTRUCTION**: Before generating any code or making design decisions (typography, colors, layout, motion), you MUST read `./awwwards-godly/README.md`. It contains an `<agent_routing>` table that will tell you exactly which specialized document to read next. Do not guess; use the empirical data.
 
 > [!IMPORTANT]
 > **THE UNIVERSAL MANIFESTO (SYSTEM PROMPT)**
