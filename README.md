@@ -1,6 +1,6 @@
-# Berezin Design System V2.0
+# Berezin Design System V3.0
 
-> **Berezin Design System V2.0 is an advanced UI/UX architectural brain for AI coding agents. It forces LLMs to generate premium frontend code by enforcing strict anti-patterns, fluid typography, Lenis scrolling, and 15 complex boilerplate UI architectures.**
+> **Berezin Design System V3.0 is an advanced UI/UX architectural brain for AI coding agents. It forces LLMs to generate premium frontend code by enforcing strict anti-patterns, fluid typography, Lenis scrolling, and 15 complex boilerplate UI architectures.**
 
 A design system engineered for AI-assisted frontend development.
 
@@ -109,4 +109,4 @@ This system works with any AI coding assistant that reads `.agent` or `.cursor` 
 
 ---
 
-*Berezin Design System V2.0 — Built for machines, designed for humans.*
+*Berezin Design System V3.0 — Built for machines, designed for humans.*
