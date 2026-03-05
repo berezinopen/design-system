@@ -1,4 +1,4 @@
-# Integration Strategy: Berezin Design System V2.0 
+# Integration Strategy: Berezin Design System V3.0 
 
 ## The Problem
 We have advanced rules for Z-Index, Modals, and LLM UI in the `advance` folder. If we randomly paste them into `SKILL.md`, the document becomes too long. LLM agents will suffer from *context fatigue* and start ignoring rules, or worse, apply heavy Z-index management to simple static landing pages where it's not needed.

@@ -1,4 +1,4 @@
-# Z-Index Hierarchy & Layout Architecture (Berezin V2.0)
+# Z-Index Hierarchy & Layout Architecture (Berezin V3.0)
 
 When moving beyond simple scroll pages into complex applications (modals, floating LLMs, noise overlays, full-screen menus), arbitrary z-indexes (`z-10`, `z-50`, `z-[9999]`) destroy performance and maintainability. 
 

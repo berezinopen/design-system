@@ -1,4 +1,4 @@
-# Contextual UI & LLM Widget Integration (Berezin V2.0)
+# Contextual UI & LLM Widget Integration (Berezin V3.0)
 
 Modern premium websites integrate AI and contextual helper widgets (Floating Action Buttons - FABs) without breaking the aesthetic or distracting the user.
 

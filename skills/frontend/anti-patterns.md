@@ -1,4 +1,4 @@
-# ⛔ Berezin Design System V1.0 — Anti-Patterns
+# ⛔ Berezin Design System V3.0 — Anti-Patterns
 
 > **Read this before EVERY output.** If any of these patterns appear in your generated code, you have failed the quality bar.
 

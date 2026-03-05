@@ -1,5 +1,5 @@
 /**
- * BEREZIN DESIGN SYSTEM V1.0
+ * BEREZIN DESIGN SYSTEM V3.0
  * UNIVERSAL STYLE TOKENS (THE DNA)
  * 
  * This file is the "Phase 0" deliverable. 
